@@ -118,7 +118,7 @@ Random-Password-Generator/
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/Nirliptasethy/Random-password-generator.git
+git clone https:https://github.com/Nirliptasethy/Random_password_generator
 ```
 
 ### Step 2: Open the project folder
