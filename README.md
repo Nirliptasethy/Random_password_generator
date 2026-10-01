@@ -1,4 +1,3 @@
-# Random_password_generator
 # 🔐 Random Password Generator
 
 ## 📌 Project Overview
